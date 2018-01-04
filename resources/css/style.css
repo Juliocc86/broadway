@@ -1,5 +1,6 @@
 .central, .where {
-  background-image: url('./images/the-flatiron-building.png');
+  background-image: url('../images/the-flatiron-building.png');
+  text-align: center;
 }
 
 .about {
@@ -11,7 +12,7 @@
   font-size: 11px;
   color: white;
   background-color: dimgray;
-  text-align: left;
+  text-align: left !important;
 }
 
 h1 {
@@ -26,7 +27,6 @@ p > a {
   font-family: helvetica;
   font-size: 18px;
   color: white;
-  text-align: center;
 }
 
 h2 {
