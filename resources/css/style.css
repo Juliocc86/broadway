@@ -1,9 +1,17 @@
-.central .where {
-  background-image: url('./resources/images/the-flatiron-building.png');
+.central, .where {
+  background-image: url('./images/the-flatiron-building.png');
 }
 
 .about {
   text-align: center;
+}
+
+.footer {
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
 
 h1 {
