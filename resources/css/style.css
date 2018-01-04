@@ -1,5 +1,9 @@
-.central {
-  background-image: url('./resoures/images/the-flatiron-building.png');
+.central, .where {
+  background-image: url('./resources/images/the-flatiron-building.png');
+}
+
+.about {
+  text-align: center;
 }
 
 h1 {
