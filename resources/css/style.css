@@ -1,6 +1,15 @@
 .central, .where {
   background-image: url('../images/the-flatiron-building.png');
   text-align: center;
+  text-color: white;
+}
+
+.resto {
+  text-align: center;
+}
+
+.where h2 {
+  color: white;
 }
 
 .about {
