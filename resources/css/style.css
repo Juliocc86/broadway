@@ -23,7 +23,7 @@ h1 {
   text-align: center;
 }
 
-p > a {
+.central p > a {
   font-family: helvetica;
   font-size: 18px;
   color: white;
@@ -46,5 +46,4 @@ h3 {
 p {
   font-family: helvetica;
   font-size: 14px;
-  text-align: center;
 }
